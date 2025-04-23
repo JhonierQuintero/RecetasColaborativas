@@ -21,3 +21,5 @@
 ## *Tiempo de cocción:* 
 -25 minutos
 
+## *Consejo:* 
+-Sustituye el pollo por garbanzos asados para una versión vegetariana.
