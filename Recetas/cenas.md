@@ -17,3 +17,7 @@
 4. Hornea por 12-15 minutos hasta que el salmón esté cocido.
 5. Sirve caliente.
 
+## *Tiempo de cocción:*
+-25 minutos  
+
+## 
