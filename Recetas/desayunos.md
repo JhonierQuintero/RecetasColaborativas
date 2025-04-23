@@ -18,3 +18,6 @@
 
 ## *Tiempo de cocción:* 
 -10 minutos  
+
+## *Consejo:* 
+-Usa pan sin gluten para una versión apta para celíacos. Varía agregando queso feta o tocino crujiente.
