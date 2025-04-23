@@ -7,4 +7,11 @@
 - 1 taza de crema para batir
 - 1 cucharadita de esencia de vainilla
 
+## *Preparación:*
+1. Derrite el chocolate a baño maría o en microondas. Deja enfriar ligeramente.
+2. Bate las yemas con el azúcar hasta que estén cremosas. Incorpora el chocolate derretido y la vainilla.
+3. Monta las claras a punto de nieve y la crema por separado.
+4. Incorpora suavemente las claras y la crema al chocolate con movimientos envolventes.
+5. Divide en copas y refrigera por al menos 2 horas.
+
 ## 
