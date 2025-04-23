@@ -14,4 +14,7 @@
 4. Incorpora suavemente las claras y la crema al chocolate con movimientos envolventes.
 5. Divide en copas y refrigera por al menos 2 horas.
 
+## *Tiempo de cocción:*
+-10 minutos (más 2 horas de refrigeración)  
+
 ## 
