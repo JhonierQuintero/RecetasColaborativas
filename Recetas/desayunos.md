@@ -15,3 +15,6 @@
 3. Unta el aguacate sobre las tostadas.
 4. Calienta el aceite en una sartén y cocina los huevos al gusto (fritos o revueltos).
 5. Coloca los huevos sobre el aguacate. Espolvorea hojuelas de chile o añade tomate cherry si deseas.
+
+## *Tiempo de cocción:* 
+-10 minutos  
