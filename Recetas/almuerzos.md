@@ -11,3 +11,10 @@
 - 2 cucharadas de jugo de limón
 - Sal y pimienta al gusto
 
+## *Preparación:*
+1. Cocina la quinoa en 2 tazas de agua con una pizca de sal por 15 minutos. Enfría.
+2. Sazona las pechugas con sal y pimienta, ásalas en una sartén con 1 cucharada de aceite por 6-8 minutos por lado. Corta en tiras.
+3. En un tazón grande, mezcla la quinoa, pepino, pimiento, aguacate y cilantro.
+4. Prepara un aderezo con el aceite de oliva, jugo de limón, sal y pimienta. Vierte sobre la ensalada y mezcla.
+5. Sirve con el pollo encima.
+
