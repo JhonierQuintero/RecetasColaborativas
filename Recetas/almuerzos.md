@@ -18,3 +18,6 @@
 4. Prepara un aderezo con el aceite de oliva, jugo de limón, sal y pimienta. Vierte sobre la ensalada y mezcla.
 5. Sirve con el pollo encima.
 
+## *Tiempo de cocción:* 
+-25 minutos
+
