@@ -20,4 +20,5 @@
 ## *Tiempo de cocción:*
 -25 minutos  
 
-## 
+## *Consejo:* 
+Añade una salsa de yogur con eneldo para un toque fresco.
