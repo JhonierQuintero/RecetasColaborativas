@@ -17,4 +17,5 @@
 ## *Tiempo de cocción:*
 -10 minutos (más 2 horas de refrigeración)  
 
-## 
+## *Consejo:* 
+Decora con frutos rojos o ralladura de naranja para un toque elegante.
