@@ -1,4 +1,4 @@
-# Recetario
+# 🍞 🫐 Recetario 🫐 🍞
 
 Bienvenido al recetario. Aquí encontrarás recetas organizadas por categorías:
 
@@ -13,3 +13,6 @@ Bienvenido al recetario. Aquí encontrarás recetas organizadas por categorías:
 - [Comida_internacional](Recetas/comida_internacional.md)
 - [Bebidas](Recetas/bebidas.md)
 - [Snacks](Recetas/snacks.md)
+
+
+🍞🫐🍎🧄🥚🍿🍲🍹🦞🦐🥩🍿🫓🥖🍄‍🟫🫘🥪🍤🍣🍼🍝🍬🍳🫛🍎🍐
