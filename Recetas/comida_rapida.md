@@ -11,3 +11,10 @@
 - 2 cucharadas de aceite
 - Sal al gusto
 
+## *Preparación:*
+1. Sazona el pollo con comino, paprika y sal.
+2. Calienta el aceite en una sartén y cocina el pollo por 6-8 minutos.
+3. Calienta las tortillas en un comal o microondas.
+4. Rellena las tortillas con pollo, aguacate y pico de gallo.
+5. Sirve inmediatamente.
+
