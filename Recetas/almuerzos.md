@@ -22,4 +22,4 @@
 -25 minutos
 
 ## *Consejo:* 
--Sustituye el pollo por garbanzos asados para una versión vegetariana.
+-Sustituye el pollo por garbanzos asados para una versión vegetariana dependiendo de tus gustos.
