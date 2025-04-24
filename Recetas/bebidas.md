@@ -8,3 +8,8 @@
 - 10 hojas de hierbabuena
 - Hielo al gusto
 
+## *Preparación:*
+1. Disuelve el azúcar en 1 taza de agua caliente. Enfría.
+2. Mezcla el jugo de limón, agua restante, jarabe de azúcar y hierbabuena machacada.
+3. Sirve con hielo y decora con más hierbabuena.
+
