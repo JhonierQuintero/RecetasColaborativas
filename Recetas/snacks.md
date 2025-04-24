@@ -14,4 +14,6 @@
 4. Extiende en una bandeja y hornea por 10-15 minutos hasta que esté crujiente.
 5. Deja enfriar antes de servir.
 
+## *Tiempo de cocción:* 
+-15 minutos  
 
