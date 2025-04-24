@@ -20,3 +20,5 @@
 4. Incorpora las lentejas y cocina 5 minutos más. Ajusta sal.
 5. Sirve con arroz o pan naan, decorado con cilantro.
 
+## *Tiempo de cocción:* 
+-35 minutos  
