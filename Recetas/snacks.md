@@ -17,3 +17,5 @@
 ## *Tiempo de cocción:* 
 -15 minutos  
 
+## *Consejo:* 
+Prueba con pimentón ahumado para un sabor diferente.
