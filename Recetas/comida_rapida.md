@@ -18,3 +18,6 @@
 4. Rellena las tortillas con pollo, aguacate y pico de gallo.
 5. Sirve inmediatamente.
 
+## *Tiempo de cocción:* 
+-10 minutos  
+
