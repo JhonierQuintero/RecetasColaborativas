@@ -3,13 +3,13 @@
 Bienvenido al recetario. Aquí encontrarás recetas organizadas por categorías:
 
 ## Categorías
-- [Desayuno](recetas/desayuno.md)
-- [Almuerzo](recetas/almuerzo.md)
-- [Cena](recetas/cena.md)
-- [Postres](recetas/postres.md)
-- [Vegetarianos](recetas/vegetariano.md)
-- [Sin gluten](recetas/sin_gluten.md)
-- [Comida rapida](recetas/comida_rapida.md)
-- [Comida_internacional](recetas/comida_internacional.md)
-- [Bebidas](recetas/bebidas.md)
-- [Snacks](recetas/snacks.md)
+- [Desayuno](Recetas/desayuno.md)
+- [Almuerzo](Recetas/almuerzo.md)
+- [Cena](Recetas/cena.md)
+- [Postres](Recetas/postres.md)
+- [Vegetarianos](Recetas/vegetariano.md)
+- [Sin gluten](Recetas/sin_gluten.md)
+- [Comida rapida](Recetas/comida_rapida.md)
+- [Comida_internacional](Recetas/comida_internacional.md)
+- [Bebidas](Recetas/bebidas.md)
+- [Snacks](Recetas/snacks.md)
