@@ -21,3 +21,6 @@
 4. Cocina el huevo revuelto en el wok, añade los fideos y la salsa. Mezcla 2 minutos.
 5. Regresa los camarones, añade brotes y cacahuates. Sirve con cebollín y limón.
 
+## *Tiempo de cocción:* 
+-15 minutos  
+
