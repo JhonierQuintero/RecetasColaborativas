@@ -11,5 +11,11 @@
 - 1/2 taza de queso mozzarella para cubrir
 - Sal al gusto
 
+## *Preparación:*
+1. Precalienta el horno a 200 °C.
+2. Ralla la coliflor y cocínala al vapor por 5 minutos. Escurre bien.
+3. Mezcla la coliflor con el huevo, 1/2 taza de mozzarella, orégano y sal.
+4. Forma una base en una bandeja con papel pergamino y hornea por 15 minutos.
+5. Cubre con salsa, vegetales y queso. Hornea 10 minutos más.
 
 
