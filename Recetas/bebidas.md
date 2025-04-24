@@ -16,3 +16,5 @@
 ## *Tiempo de cocción:* 
 -5 minutos  
 
+## *Consejo:* 
+Añade un toque de jengibre rallado para un giro refrescante.
