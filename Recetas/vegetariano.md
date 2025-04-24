@@ -13,3 +13,10 @@
 - Sal al gusto
 - Opcional: cilantro para decorar
 
+## *Preparación:*
+1. Cocina las lentejas en agua con sal por 20 minutos. Escurre.
+2. En una sartén, calienta el aceite y sofríe la cebolla, ajo y jengibre por 5 minutos.
+3. Añade el curry, tomates y leche de coco. Cocina a fuego bajo por 10 minutos.
+4. Incorpora las lentejas y cocina 5 minutos más. Ajusta sal.
+5. Sirve con arroz o pan naan, decorado con cilantro.
+
