@@ -22,3 +22,5 @@
 
 ## *Tiempo de cocción:* 
 -35 minutos  
+## *Consejo:* 
+Añade espinacas o calabaza para más textura.
