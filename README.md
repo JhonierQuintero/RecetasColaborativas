@@ -3,9 +3,9 @@
 Bienvenido al recetario. Aquí encontrarás recetas organizadas por categorías:
 
 ## Categorías
-- [Desayuno](Recetas/desayuno.md)
-- [Almuerzo](Recetas/almuerzo.md)
-- [Cena](Recetas/cena.md)
+- [Desayuno](Recetas/desayunos.md)
+- [Almuerzo](Recetas/almuerzos.md)
+- [Cena](Recetas/cenas.md)
 - [Postres](Recetas/postres.md)
 - [Vegetarianos](Recetas/vegetariano.md)
 - [Sin gluten](Recetas/sin_gluten.md)
