@@ -24,3 +24,5 @@
 ## *Tiempo de cocción:* 
 -15 minutos  
 
+## *Consejo:* 
+Sustituye camarones por tofu para una versión vegetariana.
