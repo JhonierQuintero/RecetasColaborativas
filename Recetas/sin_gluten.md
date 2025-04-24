@@ -18,4 +18,5 @@
 4. Forma una base en una bandeja con papel pergamino y hornea por 15 minutos.
 5. Cubre con salsa, vegetales y queso. Hornea 10 minutos más.
 
-
+## *Tiempo de cocción:*
+-30 minutos  
