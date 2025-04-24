@@ -13,3 +13,6 @@
 2. Mezcla el jugo de limón, agua restante, jarabe de azúcar y hierbabuena machacada.
 3. Sirve con hielo y decora con más hierbabuena.
 
+## *Tiempo de cocción:* 
+-5 minutos  
+
