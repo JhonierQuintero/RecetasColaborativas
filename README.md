@@ -10,6 +10,6 @@ Bienvenido al recetario. Aquí encontrarás recetas organizadas por categorías:
 - [Vegetarianos](recetas/vegetariano.md)
 - [Sin gluten](recetas/sin_gluten.md)
 - [Comida rapida](recetas/comida_rapida.md)
-- [Comida_internacional](recetas/comida internacional.md)
+- [Comida_internacional](recetas/comida_internacional.md)
 - [Bebidas](recetas/bebidas.md)
 - [Snacks](recetas/snacks.md)
