@@ -21,3 +21,5 @@
 ## *Tiempo de cocción:* 
 -10 minutos  
 
+# *Consejo:* 
+Usa tortillas de lechuga para una versión baja en carbohidratos.
