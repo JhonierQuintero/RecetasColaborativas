@@ -20,3 +20,6 @@
 
 ## *Tiempo de cocción:*
 -30 minutos  
+
+## *Consejo:* 
+Añade pepperoni o pollo para una versión no vegetariana.
